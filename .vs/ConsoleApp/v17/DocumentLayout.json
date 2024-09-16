@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|c:\\users\\santoshk\\source\\repos\\consoleapp\\binaryconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|solutionrelative:binaryconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|c:\\users\\santoshk\\source\\repos\\consoleapp\\swapnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|solutionrelative:swapnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|c:\\users\\santoshk\\source\\repos\\consoleapp\\armstrongnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|solutionrelative:armstrongnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|c:\\users\\santoshk\\source\\repos\\consoleapp\\perfectnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|solutionrelative:perfectnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|c:\\users\\santoshk\\source\\repos\\consoleapp\\tableprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|solutionrelative:tableprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|c:\\users\\santoshk\\source\\repos\\consoleapp\\sumeven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|solutionrelative:sumeven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|c:\\users\\santoshk\\source\\repos\\consoleapp\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7961CF62-6B80-4C34-8E86-2014D6B8C86C}|ConsoleApp.csproj|solutionrelative:demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryConverter.cs",
+              "DocumentMoniker": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\BinaryConverter.cs",
+              "RelativeDocumentMoniker": "BinaryConverter.cs",
+              "ToolTip": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\BinaryConverter.cs",
+              "RelativeToolTip": "BinaryConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:40:12.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwapNumber.cs",
+              "DocumentMoniker": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\SwapNumber.cs",
+              "RelativeDocumentMoniker": "SwapNumber.cs",
+              "ToolTip": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\SwapNumber.cs",
+              "RelativeToolTip": "SwapNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:04:45.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArmstrongNum.cs",
+              "DocumentMoniker": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\ArmstrongNum.cs",
+              "RelativeDocumentMoniker": "ArmstrongNum.cs",
+              "ToolTip": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\ArmstrongNum.cs",
+              "RelativeToolTip": "ArmstrongNum.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:36:01.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PerfectNumber.cs",
+              "DocumentMoniker": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\PerfectNumber.cs",
+              "RelativeDocumentMoniker": "PerfectNumber.cs",
+              "ToolTip": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\PerfectNumber.cs",
+              "RelativeToolTip": "PerfectNumber.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:25:48.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TablePrint.cs",
+              "DocumentMoniker": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\TablePrint.cs",
+              "RelativeDocumentMoniker": "TablePrint.cs",
+              "ToolTip": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\TablePrint.cs",
+              "RelativeToolTip": "TablePrint.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAzwBgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:46:44.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SumEven.cs",
+              "DocumentMoniker": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\SumEven.cs",
+              "RelativeDocumentMoniker": "SumEven.cs",
+              "ToolTip": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\SumEven.cs",
+              "RelativeToolTip": "SumEven.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:43:51.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\Demo.cs",
+              "RelativeDocumentMoniker": "Demo.cs",
+              "ToolTip": "C:\\Users\\santoshk\\source\\repos\\ConsoleApp\\Demo.cs",
+              "RelativeToolTip": "Demo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:40:02.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
